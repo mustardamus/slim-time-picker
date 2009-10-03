@@ -11,16 +11,6 @@
   </head>
   
   <body>
-    <div class="container_12">
-      <% flash.each do |name, msg| %>
-        <div id="flash-<%= name %>" class="grid_12"><%= msg %></div>
-        <div class="clear"></div>
-      <% end %>
-
-      <div class="grid_12">
-        <%= yield %>
-      </div>
-      <div class="clear"></div>
-    </div>
+    
   </body>
 </html>
