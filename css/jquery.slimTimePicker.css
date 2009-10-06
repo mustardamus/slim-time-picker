@@ -1,0 +1,4 @@
+.slim-time-picker ul.hours { list-style: none; margin: 0; padding: 10px 0 0 0; width: 100%; }
+.slim-time-picker ul li { float: left; margin: 0 1px 0 1px; padding: 4px; background: #333333; color: white; cursor: pointer; }
+.slim-time-picker ul li.hover { background: red; color: black; }
+.slim-time-picker ul.minutes, .slim-time-picker ul.ampm { list-style: none; position: absolute; padding: 5px 0 0 0; margin-left: -5px; width: 100%; }
