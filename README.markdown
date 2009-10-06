@@ -1,7 +1,7 @@
 Why?
 ====
 
-There is already such a plugin: [jquery.timepickr](http://haineault.com/media/jquery/ui-timepickr/page/). It depends on jQuery UI. If you use UI anyway and want to style with the theme roller you may want to give this plugin a try. For my taste this plugin is too heavy, and I don't use UI. So I hacked together my own slim time picker. 1.2kb (not minified) is much more page load friendly.
+There is already such a plugin: [jquery.timepickr](http://haineault.com/media/jquery/ui-timepickr/page/). It depends on jQuery UI. If you use UI anyway and want to style with the theme roller you may want to give this plugin a try. For my taste this plugin is too heavy, and I don't use UI. So I hacked together my own slim time picker. 2.6kb (not minified) is much more page load friendly.
 
 How?
 ====
