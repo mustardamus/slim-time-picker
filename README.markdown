@@ -13,10 +13,10 @@ Options?
 
 Yep.
 
-  defaults = {
-    minutes : ["00", "15", "30", "45"],
-    ampm : ["am", "pm"]
-  };
+    defaults = {
+      minutes : ["00", "15", "30", "45"],
+      ampm : ["am", "pm"]
+    };
 
 Demo?
 =====
